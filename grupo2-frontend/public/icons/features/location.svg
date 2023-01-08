@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 191.25 236.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #6d28d9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11.25px;
+      }
+    </style>
+  </defs>
+  <g id="_Ñëîé_1" data-name="Ñëîé 1">
+    <g id="location">
+      <circle class="cls-1" cx="95.62" cy="95.62" r="37.5"/>
+      <path class="cls-1" d="M5.62,95.62C5.62,45.92,45.92,5.62,95.62,5.62s90,40.29,90,90"/>
+      <path class="cls-1" d="M5.62,95.62c0,42.79,22.5,75,90,135"/>
+      <path class="cls-1" d="M185.62,95.62c0,42.79-22.5,75-90,135"/>
+    </g>
+  </g>
+</svg>

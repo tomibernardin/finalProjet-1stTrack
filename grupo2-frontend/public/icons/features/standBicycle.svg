@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236.25 206.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #6d28d9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11.25px;
+      }
+    </style>
+  </defs>
+  <g id="_Ñëîé_1" data-name="Ñëîé 1">
+    <g id="standBicycle">
+      <line class="cls-1" x1="20.62" y1="50.62" x2="50.62" y2="50.62"/>
+      <line class="cls-1" x1="50.62" y1="95.62" x2="35.62" y2="50.62"/>
+      <line class="cls-1" x1="185.62" y1="125.62" x2="200.62" y2="20.62"/>
+      <line class="cls-1" x1="50.62" y1="185.62" x2="50.62" y2="200.62"/>
+      <line class="cls-1" x1="185.62" y1="185.62" x2="185.62" y2="200.62"/>
+      <path class="cls-1" d="M170.62,20.62h45c8.29,0,15-6.71,15-15"/>
+      <circle class="cls-1" cx="50.62" cy="140.62" r="15"/>
+      <path class="cls-1" d="M185.62,125.62c15,3.44,30,13.42,30,30s-13.42,30-30,30H50.62c-24.87,0-45-20.13-45-45s20.13-45,45-45l135,30Z"/>
+    </g>
+  </g>
+</svg>

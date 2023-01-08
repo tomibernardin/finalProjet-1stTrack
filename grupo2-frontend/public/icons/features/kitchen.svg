@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236.25 236.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #6d28d9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11.25px;
+      }
+    </style>
+  </defs>
+  <g id="_Ñëîé_1" data-name="Ñëîé 1">
+    <g id="kitchen">
+      <rect class="cls-1" x="5.62" y="5.62" width="225" height="225"/>
+      <circle class="cls-1" cx="73.12" cy="65.62" r="30"/>
+      <circle class="cls-1" cx="73.12" cy="148.12" r="30"/>
+      <circle class="cls-1" cx="163.12" cy="65.62" r="30"/>
+      <circle class="cls-1" cx="163.12" cy="148.12" r="30"/>
+      <line class="cls-1" x1="84.3" y1="208.12" x2="84.45" y2="208.12"/>
+      <line class="cls-1" x1="106.8" y1="208.12" x2="106.95" y2="208.12"/>
+      <line class="cls-1" x1="129.3" y1="208.12" x2="129.45" y2="208.12"/>
+      <line class="cls-1" x1="151.8" y1="208.12" x2="151.95" y2="208.12"/>
+    </g>
+  </g>
+</svg>

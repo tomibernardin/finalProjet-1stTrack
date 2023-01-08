@@ -1,0 +1,33 @@
+.circleBtnModel{
+    &::after{
+        content: '';
+        position: absolute;
+        z-index: -1;
+        @apply bg-white shadow-md w-16 h-16
+        rounded-full left-1/2 bottom-0 -translate-x-1/2 translate-y-1/2
+    }
+    &::before{
+        content: '';
+        position: absolute;
+        z-index: 1;
+        @apply bg-white w-20 h-8
+         left-1/2 bottom-0 -translate-x-1/2
+    }
+}
+
+.circleBtnModelBottom{
+    &::after{
+        content: '';
+        position: absolute;
+        z-index: -1;
+        @apply bg-white shadow-md w-16 h-16
+        rounded-full left-1/2 top-0 -translate-x-1/2 -translate-y-1/2
+    }
+    &::before{
+        content: '';
+        position: absolute;
+        z-index: 1;
+        @apply bg-white w-20 h-10
+         left-1/2 top-0 -translate-x-1/2
+    }
+}

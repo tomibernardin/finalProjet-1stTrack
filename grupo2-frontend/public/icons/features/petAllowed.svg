@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236.25 236.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #6d28d9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11.25px;
+      }
+    </style>
+  </defs>
+  <g id="_Ñëîé_1" data-name="Ñëîé 1">
+    <g id="petAllowed">
+      <path class="cls-1" d="M58.12,103.12l-18.75-15h-3.75c0,24.87,8.69,31.19,15,37.5v52.5c0,8.29,6.71,15,15,15s15-6.71,15-15v-30h60v30c0,8.29,6.71,15,15,15s15-6.71,15-15v-60c0-8.29,6.71-15,15-15s15-6.71,15-15h0c0-8.29-7.5-11.03-15-15l-22.5-7.5-18.75-22.5h-3.75v45c0,8.29-6.71,15-15,15H58.12Z"/>
+      <rect class="cls-1" x="5.62" y="5.62" width="225" height="225" rx="15" ry="15"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+FROM tomcat:9.0-jdk17-openjdk
+RUN rm -rf /usr/local/tomcat/webapps/*
+COPY /grupo2-backend/target/* /usr/local/tomcat/webapps
+COPY ./server.xml /usr/local/tomcat/conf/server.xml
+EXPOSE 8080 8443
+CMD ["catalina.sh", "run"]

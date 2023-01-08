@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236.25 206.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #6d28d9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11.25px;
+      }
+    </style>
+  </defs>
+  <g id="_Ñëîé_1" data-name="Ñëîé 1">
+    <g id="bank">
+      <polygon class="cls-1" points="118.12 5.62 20.62 50.62 20.62 65.62 215.62 65.62 215.62 50.62 118.12 5.62"/>
+      <rect class="cls-1" x="5.62" y="178.12" width="225" height="22.5"/>
+      <polyline class="cls-1" points="28.12 178.12 28.12 155.62 208.12 155.62 208.12 178.12"/>
+      <line class="cls-1" x1="43.12" y1="65.62" x2="43.12" y2="155.62"/>
+      <line class="cls-1" x1="163.12" y1="65.62" x2="163.12" y2="155.62"/>
+      <line class="cls-1" x1="73.12" y1="65.62" x2="73.12" y2="155.62"/>
+      <line class="cls-1" x1="103.12" y1="65.62" x2="103.12" y2="155.62"/>
+      <line class="cls-1" x1="133.12" y1="65.62" x2="133.12" y2="155.62"/>
+      <line class="cls-1" x1="193.12" y1="65.62" x2="193.12" y2="155.62"/>
+    </g>
+  </g>
+</svg>

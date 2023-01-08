@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 206.25 236.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #6d28d9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11.25px;
+      }
+    </style>
+  </defs>
+  <g id="_Ñëîé_1" data-name="Ñëîé 1">
+    <g id="shop_bag">
+      <polygon class="cls-1" points="200.62 230.62 193.12 50.62 13.12 50.62 5.62 230.62 200.62 230.62"/>
+      <line class="cls-1" x1="8.44" y1="185.62" x2="197.81" y2="185.62"/>
+      <path class="cls-1" d="M155.62,65.62v-15c0-24.87-20.13-45-45-45h-15c-24.87,0-45,20.13-45,45v15"/>
+    </g>
+  </g>
+</svg>

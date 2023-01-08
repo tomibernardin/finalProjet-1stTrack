@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236.25 236.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #6d28d9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11.25px;
+      }
+    </style>
+  </defs>
+  <g id="_Ñëîé_1" data-name="Ñëîé 1">
+    <g id="award">
+      <polygon class="cls-1" points="118.12 41.76 134.35 74.75 170.62 80.04 144.38 105.73 150.57 141.99 118.12 124.87 85.68 141.99 91.88 105.73 65.62 80.04 101.9 74.75 118.12 41.76"/>
+      <circle class="cls-1" cx="118.12" cy="95.62" r="90"/>
+      <polyline class="cls-1" points="50.85 155.4 5.62 200.62 35.62 200.62 35.62 230.62 86.38 179.87"/>
+      <polyline class="cls-1" points="185.4 155.4 230.62 200.62 200.62 200.62 200.62 230.62 149.86 179.86"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236.25 236.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #6d28d9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11.25px;
+      }
+    </style>
+  </defs>
+  <g id="_Ñëîé_1" data-name="Ñëîé 1">
+    <g id="feet_light">
+      <line class="cls-1" x1="223.12" y1="230.62" x2="178.12" y2="230.62"/>
+      <line class="cls-1" x1="200.62" y1="230.62" x2="200.62" y2="65.62"/>
+      <polygon class="cls-1" points="230.62 65.62 170.62 65.62 178.12 5.62 223.12 5.62 230.62 65.62"/>
+      <line class="cls-1" x1="5.62" y1="125.62" x2="5.62" y2="215.62"/>
+      <line class="cls-1" x1="155.62" y1="125.62" x2="155.62" y2="215.62"/>
+      <line class="cls-1" x1="5.62" y1="215.62" x2="155.62" y2="215.62"/>
+      <line class="cls-1" x1="5.62" y1="125.62" x2="35.62" y2="125.62"/>
+      <line class="cls-1" x1="155.62" y1="125.62" x2="125.62" y2="125.62"/>
+      <line class="cls-1" x1="35.62" y1="185.62" x2="125.62" y2="185.62"/>
+      <line class="cls-1" x1="20.62" y1="215.62" x2="20.62" y2="230.62"/>
+      <line class="cls-1" x1="140.62" y1="215.62" x2="140.62" y2="230.62"/>
+      <line class="cls-1" x1="35.62" y1="163.12" x2="125.62" y2="163.12"/>
+      <path class="cls-1" d="M125.62,185.62V103.12c0-4.15-3.35-7.5-7.5-7.5H43.12c-4.15,0-7.5,3.35-7.5,7.5v82.5"/>
+    </g>
+  </g>
+</svg>

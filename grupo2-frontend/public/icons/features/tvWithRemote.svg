@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236.25 236.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #6d28d9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11.25px;
+      }
+    </style>
+  </defs>
+  <g id="_Ñëîé_1" data-name="Ñëîé 1">
+    <g id="tvWithRemote">
+      <line class="cls-1" x1="200.62" y1="155.62" x2="200.62" y2="170.62"/>
+      <rect class="cls-1" x="35.62" y="65.62" width="75" height="165" rx="15" ry="15"/>
+      <path class="cls-1" d="M35.62,155.62h-15c-8.29,0-15-6.71-15-15V20.62c0-8.29,6.71-15,15-15H215.62c8.29,0,15,6.71,15,15v120c0,8.29-6.71,15-15,15H110.62"/>
+      <line class="cls-1" x1="61.8" y1="95.62" x2="61.95" y2="95.62"/>
+      <line class="cls-1" x1="61.8" y1="118.12" x2="61.95" y2="118.12"/>
+      <line class="cls-1" x1="61.8" y1="140.62" x2="61.95" y2="140.62"/>
+      <line class="cls-1" x1="84.3" y1="95.62" x2="84.45" y2="95.62"/>
+      <line class="cls-1" x1="84.3" y1="118.12" x2="84.45" y2="118.12"/>
+      <line class="cls-1" x1="84.3" y1="140.62" x2="84.45" y2="140.62"/>
+      <circle class="cls-1" cx="73.12" cy="185.62" r="15"/>
+      <polyline class="cls-1" points="170.62 35.62 184.5 65.62 186.75 65.62 200.62 35.62"/>
+      <line class="cls-1" x1="140.62" y1="65.62" x2="140.62" y2="35.62"/>
+      <line class="cls-1" x1="129.38" y1="35.62" x2="151.88" y2="35.62"/>
+    </g>
+  </g>
+</svg>

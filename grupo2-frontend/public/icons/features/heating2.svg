@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 236.25 236.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_Áåçûìÿííûé_ãðàäèåíò_3);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke: #6d28d9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11.25px;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: url(#_Áåçûìÿííûé_ãðàäèåíò_3-3);
+      }
+
+      .cls-4 {
+        fill: url(#_Áåçûìÿííûé_ãðàäèåíò_3-2);
+      }
+    </style>
+    <linearGradient id="_Áåçûìÿííûé_ãðàäèåíò_3" data-name="Áåçûìÿííûé ãðàäèåíò 3" x1="92.81" y1="20.62" x2="98.44" y2="20.62" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="_Áåçûìÿííûé_ãðàäèåíò_3-2" data-name="Áåçûìÿííûé ãðàäèåíò 3" x1="122.81" x2="128.44" xlink:href="#_Áåçûìÿííûé_ãðàäèåíò_3"/>
+    <linearGradient id="_Áåçûìÿííûé_ãðàäèåíò_3-3" data-name="Áåçûìÿííûé ãðàäèåíò 3" x1="62.81" x2="68.44" xlink:href="#_Áåçûìÿííûé_ãðàäèåíò_3"/>
+  </defs>
+  <g id="_Ñëîé_1" data-name="Ñëîé 1">
+    <g id="heating2">
+      <path class="cls-1" d="M95.62,5.62c9.74,10-9.74,20,0,30"/>
+      <path class="cls-4" d="M125.62,5.62c9.74,10-9.74,20,0,30"/>
+      <path class="cls-3" d="M65.62,5.62c9.74,10-9.74,20,0,30"/>
+      <line class="cls-2" x1="50.62" y1="65.62" x2="50.62" y2="230.62"/>
+      <line class="cls-2" x1="95.62" y1="65.62" x2="95.62" y2="230.62"/>
+      <line class="cls-2" x1="140.62" y1="65.62" x2="140.62" y2="230.62"/>
+      <rect class="cls-2" x="5.62" y="65.62" width="180" height="165"/>
+      <line class="cls-2" x1="5.62" y1="95.62" x2="185.62" y2="95.62"/>
+      <polygon class="cls-2" points="230.62 189.38 230.62 211.88 204.38 215.62 204.38 185.62 230.62 189.38"/>
+      <line class="cls-2" x1="204.38" y1="200.62" x2="185.62" y2="200.62"/>
+    </g>
+  </g>
+</svg>

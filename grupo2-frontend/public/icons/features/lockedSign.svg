@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236.25 236.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #6d28d9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11.25px;
+      }
+    </style>
+  </defs>
+  <g id="_Ñëîé_1" data-name="Ñëîé 1">
+    <g id="lockedSign">
+      <path class="cls-1" d="M65.62,155.62c0,16.58,13.42,30,30,30h45c16.58,0,30-13.42,30-30v-30c0-8.29-6.71-15-15-15H80.62c-8.29,0-15,6.71-15,15v30Z"/>
+      <path class="cls-1" d="M80.62,110.62v-30c0-16.58,13.42-30,30-30h15c16.58,0,30,13.42,30,30v30"/>
+      <line class="cls-1" x1="118.12" y1="140.62" x2="118.12" y2="155.62"/>
+      <rect class="cls-1" x="5.62" y="5.62" width="225" height="225" rx="15" ry="15"/>
+    </g>
+  </g>
+</svg>

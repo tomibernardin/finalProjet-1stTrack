@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236.25 236.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #6d28d9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11.25px;
+      }
+    </style>
+  </defs>
+  <g id="_Ñëîé_1" data-name="Ñëîé 1">
+    <g id="music">
+      <circle class="cls-1" cx="28.12" cy="208.12" r="22.5"/>
+      <circle class="cls-1" cx="118.12" cy="193.12" r="22.5"/>
+      <polyline class="cls-1" points="125.86 98.09 50.62 110.62 50.62 208.12"/>
+      <line class="cls-1" x1="140.62" y1="193.12" x2="140.62" y2="110.62"/>
+      <line class="cls-1" x1="50.62" y1="140.62" x2="140.62" y2="125.62"/>
+      <circle class="cls-1" cx="140.62" cy="95.62" r="15"/>
+      <circle class="cls-1" cx="215.62" cy="80.62" r="15"/>
+      <polyline class="cls-1" points="155.62 95.62 155.62 20.62 230.62 5.62 230.62 80.62"/>
+      <line class="cls-1" x1="155.62" y1="50.62" x2="230.62" y2="35.62"/>
+      <path class="cls-1" d="M50.62,5.62c0,16.58-13.42,30-30,30"/>
+      <path class="cls-1" d="M50.62,65.62c0-16.58-13.42-30-30-30"/>
+      <path class="cls-1" d="M50.62,65.62c0-16.58,13.42-30,30-30"/>
+      <path class="cls-1" d="M50.62,5.62c0,16.58,13.42,30,30,30"/>
+      <path class="cls-1" d="M200.62,170.62c0,16.58-13.42,30-30,30"/>
+      <path class="cls-1" d="M200.62,230.62c0-16.58-13.42-30-30-30"/>
+      <path class="cls-1" d="M200.62,230.62c0-16.58,13.42-30,30-30"/>
+      <path class="cls-1" d="M200.62,170.62c0,16.58,13.42,30,30,30"/>
+    </g>
+  </g>
+</svg>

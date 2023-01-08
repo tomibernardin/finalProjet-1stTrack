@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 183.75 236.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #6d28d9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11.25px;
+      }
+    </style>
+  </defs>
+  <g id="_Ñëîé_1" data-name="Ñëîé 1">
+    <g id="pool">
+      <circle class="cls-1" cx="24.38" cy="168.75" r="18.75"/>
+      <circle class="cls-1" cx="61.88" cy="168.75" r="18.75"/>
+      <circle class="cls-1" cx="99.38" cy="168.75" r="18.75"/>
+      <circle class="cls-1" cx="136.88" cy="168.75" r="18.75"/>
+      <circle class="cls-1" cx="43.12" cy="135" r="18.75"/>
+      <circle class="cls-1" cx="80.62" cy="135" r="18.75"/>
+      <circle class="cls-1" cx="118.12" cy="135" r="18.75"/>
+      <circle class="cls-1" cx="61.88" cy="101.25" r="18.75"/>
+      <circle class="cls-1" cx="99.38" cy="101.25" r="18.75"/>
+      <circle class="cls-1" cx="80.62" cy="67.5" r="18.75"/>
+      <line class="cls-1" x1="178.12" y1="230.62" x2="178.12" y2="5.62"/>
+      <line class="cls-1" x1="138.88" y1="150" x2="148.12" y2="20.62"/>
+      <line class="cls-1" x1="133.12" y1="230.62" x2="136.21" y2="187.5"/>
+    </g>
+  </g>
+</svg>

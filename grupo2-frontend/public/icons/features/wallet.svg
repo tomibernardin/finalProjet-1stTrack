@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236.25 206.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #6d28d9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11.25px;
+      }
+    </style>
+  </defs>
+  <g id="_Ñëîé_1" data-name="Ñëîé 1">
+    <g id="wallet">
+      <path class="cls-1" d="M215.62,103.12v-37.5c0-8.29-6.71-15-15-15H20.62c-8.29,0-15-6.71-15-15V185.62c0,8.29,6.71,15,15,15H200.62c8.29,0,15-6.71,15-15v-37.5"/>
+      <path class="cls-1" d="M110.62,20.62H20.62c-8.29,0-15,6.71-15,15"/>
+      <line class="cls-1" x1="185.51" y1="125.62" x2="185.66" y2="125.62"/>
+      <polyline class="cls-1" points="163.12 50.62 140.62 5.62 50.62 50.62"/>
+      <path class="cls-1" d="M148.12,20.62h52.5c8.29,0,15,6.71,15,15v30"/>
+      <rect class="cls-1" x="155.62" y="103.12" width="75" height="45" rx="15" ry="15"/>
+    </g>
+  </g>
+</svg>

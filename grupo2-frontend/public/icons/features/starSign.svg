@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236.25 236.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #6d28d9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11.25px;
+      }
+    </style>
+  </defs>
+  <g id="_Ñëîé_1" data-name="Ñëîé 1">
+    <g id="starSign">
+      <polygon class="cls-1" points="118.12 53.69 138.98 96.11 185.62 102.91 151.88 135.93 159.84 182.56 118.12 160.54 76.41 182.56 84.38 135.93 50.62 102.91 97.27 96.11 118.12 53.69"/>
+      <rect class="cls-1" x="5.62" y="5.62" width="225" height="225" rx="15" ry="15"/>
+    </g>
+  </g>
+</svg>

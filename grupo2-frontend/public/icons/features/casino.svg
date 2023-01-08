@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236.25 191.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #6d28d9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11.25px;
+      }
+    </style>
+  </defs>
+  <g id="_Ñëîé_1" data-name="Ñëîé 1">
+    <g id="casino">
+      <line class="cls-1" x1="5.62" y1="43.12" x2="230.62" y2="43.12"/>
+      <line class="cls-1" x1="230.62" y1="148.12" x2="5.62" y2="148.12"/>
+      <line class="cls-1" x1="5.62" y1="43.12" x2="5.62" y2="148.12"/>
+      <line class="cls-1" x1="230.62" y1="43.12" x2="230.62" y2="148.12"/>
+      <line class="cls-1" x1="80.62" y1="148.12" x2="80.62" y2="43.12"/>
+      <line class="cls-1" x1="155.62" y1="148.12" x2="155.62" y2="43.12"/>
+      <polyline class="cls-1" points="39.38 118.12 54.38 73.12 31.88 73.12"/>
+      <polyline class="cls-1" points="114.38 118.12 129.38 73.12 106.88 73.12"/>
+      <polyline class="cls-1" points="189.38 118.12 204.38 73.12 181.88 73.12"/>
+      <path class="cls-1" d="M191.3,148.04c-16.33,22.76-43.02,37.59-73.17,37.59s-56.78-14.79-73.12-37.51"/>
+      <path class="cls-1" d="M45,43.15C61.34,20.42,88,5.62,118.12,5.62s56.8,14.81,73.14,37.54"/>
+    </g>
+  </g>
+</svg>

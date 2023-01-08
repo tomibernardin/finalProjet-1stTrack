@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 86.25 236.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #6d28d9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11.25px;
+      }
+    </style>
+  </defs>
+  <g id="_Ñëîé_1" data-name="Ñëîé 1">
+    <g id="office">
+      <line class="cls-1" x1="24.38" y1="65.62" x2="61.88" y2="65.62"/>
+      <polygon class="cls-1" points="5.62 5.62 80.62 5.62 80.62 20.62 61.88 65.62 80.62 200.62 43.12 230.62 5.62 200.62 24.38 65.62 5.62 20.62 5.62 5.62"/>
+    </g>
+  </g>
+</svg>

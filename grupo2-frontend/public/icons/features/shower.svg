@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 176.25 236.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #6d28d9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11.25px;
+      }
+    </style>
+  </defs>
+  <g id="_Ñëîé_1" data-name="Ñëîé 1">
+    <g id="shower">
+      <line class="cls-1" x1="80.62" y1="43.12" x2="170.62" y2="43.12"/>
+      <line class="cls-1" x1="125.62" y1="73.12" x2="125.62" y2="88.12"/>
+      <line class="cls-1" x1="125.62" y1="118.12" x2="125.62" y2="133.12"/>
+      <line class="cls-1" x1="125.62" y1="163.12" x2="125.62" y2="178.12"/>
+      <line class="cls-1" x1="95.62" y1="73.12" x2="95.62" y2="88.12"/>
+      <line class="cls-1" x1="95.62" y1="118.12" x2="95.62" y2="133.12"/>
+      <line class="cls-1" x1="95.62" y1="163.12" x2="95.62" y2="178.12"/>
+      <line class="cls-1" x1="155.62" y1="73.12" x2="155.62" y2="88.12"/>
+      <line class="cls-1" x1="155.62" y1="118.12" x2="155.62" y2="133.12"/>
+      <line class="cls-1" x1="155.62" y1="163.12" x2="155.62" y2="178.12"/>
+      <path class="cls-1" d="M5.62,230.62V20.62c0-8.29,6.71-15,15-15H110.62c8.29,0,15,6.71,15,15v22.5"/>
+      <line class="cls-1" x1="125.62" y1="208.12" x2="125.62" y2="223.12"/>
+      <line class="cls-1" x1="95.62" y1="208.12" x2="95.62" y2="223.12"/>
+      <line class="cls-1" x1="155.62" y1="208.12" x2="155.62" y2="223.12"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,110 @@
+stages:
+  - build
+  - release
+  - deploy
+
+workflow:
+  rules:
+    - if: $CI_PIPELINE_SOURCE == 'merge_request_event' && $CI_MERGE_REQUEST_TARGET_BRANCH_NAME == "main"
+
+build:maven:
+  stage: build
+  image: maven:3.8.6-openjdk-18
+  cache:
+    paths:
+      - grupo2-backend/target/
+  script:
+    - cd "grupo2-backend/"
+    - echo -e "$DOTENV_CONFIG_BACKEND" > src/main/resources/.env
+    - mvn clean install
+  artifacts:
+    paths:
+      - grupo2-backend/target/*.war
+
+build:vite:
+  stage: build
+  image: node:16.5.0
+  cache:
+    key:
+      files:
+        - grupo2-frontend/package-lock.json
+      prefix: npm
+    paths:
+      - grupo2-frontend/node_modules/
+  script:
+    - cd "grupo2-frontend/"
+    - npm install
+    - npm run build
+  artifacts:
+    paths:
+      - grupo2-frontend/dist
+
+release:maven:
+  stage: release
+  image: docker
+  services:
+    - docker:dind
+  variables:
+    DOCKER_HOST: tcp://docker:2375/
+    DOCKER_DRIVER: overlay2
+    DOCKER_TLS_CERTDIR: ""
+  before_script:
+    - echo "$CI_REGISTRY_PASSWORD" | docker login -u $CI_REGISTRY_USER "$CI_REGISTRY" --password-stdin
+  script:
+    - echo -e "$SERVER_XML" > ./server.xml
+    - cat ./server.xml
+    - "docker build -f dockerfiles/Dockerfile.backend -t ${CI_REGISTRY}/${CI_PROJECT_PATH}backend:latest --pull  ."
+    - "docker push ${CI_REGISTRY}/${CI_PROJECT_PATH}backend:latest"
+  after_script:
+    - "docker logout ${CI_REGISTRY}"
+  tags:
+    - deployment_backend
+
+release:vite:
+  stage: release
+  image: docker
+  services:
+    - docker:dind
+  variables:
+    DOCKER_HOST: tcp://docker:2375/
+    DOCKER_DRIVER: overlay2
+    DOCKER_TLS_CERTDIR: ""
+  before_script:
+    - echo "$CI_REGISTRY_PASSWORD" | docker login -u $CI_REGISTRY_USER "$CI_REGISTRY" --password-stdin
+  script:
+    - echo -e "$NEW_NGINX_CONF" > ./nginx.conf
+    - cat ./nginx.conf
+    - "docker build -f dockerfiles/Dockerfile.frontend -t ${CI_REGISTRY}/${CI_PROJECT_PATH}frontend:latest --pull ."
+    - "docker push ${CI_REGISTRY}/${CI_PROJECT_PATH}frontend:latest"
+  after_script:
+    - "docker logout ${CI_REGISTRY}"
+  tags:
+    - deployment_frontend
+
+deploy:maven:
+  image: alpine:latest
+  stage: deploy
+  before_script:
+    - apk update && apk add openssh-client
+    - mkdir -p ~/.ssh
+    - chmod 700 ~/.ssh
+    - echo -e "$SSH_PRIVATE_KEY_BACKEND" > ~/.ssh/id_rsa
+    - chmod 600  ~/.ssh/id_rsa
+  script:
+    - ssh -o StrictHostKeyChecking=no $SERVER_USER@$BACKEND_SERVER_IP "cd /docker/letsencrypt-docker-tomcat/src/production; sudo docker-compose down; sudo docker-compose pull; sudo docker-compose up -d"
+  tags:
+    - deployment_backend
+
+deploy:vite:
+  image: alpine:latest
+  stage: deploy
+  before_script:
+    - apk update && apk add openssh-client
+    - mkdir -p ~/.ssh
+    - chmod 700 ~/.ssh
+    - echo -e "$SSH_PRIVATE_KEY_FRONTEND" > ~/.ssh/id_rsa
+    - chmod 600  ~/.ssh/id_rsa
+  script:
+    - ssh -o StrictHostKeyChecking=no $SERVER_USER@$FRONTEND_SERVER_IP "cd /docker/letsencrypt-docker-nginx/src/production; sudo docker-compose down; sudo docker-compose pull; sudo docker-compose up -d"
+  tags:
+    - deployment_frontend

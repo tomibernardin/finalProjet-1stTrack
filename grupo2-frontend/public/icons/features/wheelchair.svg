@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 176.25 236.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #6d28d9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11.25px;
+      }
+    </style>
+  </defs>
+  <g id="_Ñëîé_1" data-name="Ñëîé 1">
+    <g id="wheelchair">
+      <circle class="cls-1" cx="73.12" cy="35.62" r="30"/>
+      <path class="cls-1" d="M125.5,174.59c-2.04,31.29-28.07,56.04-59.87,56.04S5.62,203.76,5.62,170.62c0-25.18,15.51-46.74,37.5-55.64"/>
+      <path class="cls-1" d="M103.12,110.62h37.5c8.29,0,15,6.71,15,15s-6.71,15-15,15h-60"/>
+      <path class="cls-1" d="M110.62,140.62c33.16,0,60,26.84,60,60v15c0,8.29-6.71,15-15,15s-15-6.71-15-15v-15c0-16.58-13.42-30-30-30h-37.5c-16.58,0-30-13.42-30-30v-45c0-16.57,13.43-30,30-30s30,13.43,30,30v15"/>
+    </g>
+  </g>
+</svg>

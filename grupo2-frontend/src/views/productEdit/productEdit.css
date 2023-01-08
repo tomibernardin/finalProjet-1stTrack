@@ -1,0 +1,7 @@
+
+@media (min-width: 1024px) {
+    .product-edit-container{
+        grid-template-columns:  max-content minmax(0, 1fr);
+
+    }
+}

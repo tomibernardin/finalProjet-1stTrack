@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236.25 206.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #6d28d9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11.25px;
+      }
+    </style>
+  </defs>
+  <g id="_Ñëîé_1" data-name="Ñëîé 1">
+    <g id="hairDryer">
+      <line class="cls-1" x1="50.62" y1="20.62" x2="50.62" y2="80.62"/>
+      <path class="cls-1" d="M142.08,90.79l13.55,109.84h15c8.29,0,15-6.71,15-15V95.62"/>
+      <path class="cls-1" d="M50.62,80.62l135,15c24.85,0,45-20.15,45-45S210.48,5.62,185.62,5.62L50.62,20.62,5.62,5.62V95.62l45-15Z"/>
+      <line class="cls-1" x1="142.62" y1="125.62" x2="146.37" y2="125.62"/>
+      <line class="cls-1" x1="138.87" y1="125.62" x2="142.62" y2="125.62"/>
+      <line class="cls-1" x1="145.1" y1="148.12" x2="148.85" y2="148.12"/>
+      <line class="cls-1" x1="141.35" y1="148.12" x2="145.1" y2="148.12"/>
+    </g>
+  </g>
+</svg>

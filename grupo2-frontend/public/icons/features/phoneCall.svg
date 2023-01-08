@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236.25 236.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #6d28d9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11.25px;
+      }
+    </style>
+  </defs>
+  <g id="_Ñëîé_1" data-name="Ñëîé 1">
+    <g id="phoneCall">
+      <path class="cls-1" d="M79.74,204.24l-47.73-47.73C-3.17,121.34-3.17,64.41,32.01,29.24l47.73,47.73-15.91,15.91c-8.79,8.79-8.79,23.03,0,31.82l47.73,47.73c8.79,8.79,23.03,8.79,31.82,0l15.91-15.91,47.73,47.73c-35.18,35.18-92.1,35.18-127.28,0Z"/>
+      <path class="cls-1" d="M140.63,5.62c49.7,0,90,40.29,90,90"/>
+      <path class="cls-1" d="M185.63,95.62c0-24.87-20.13-45-45-45"/>
+    </g>
+  </g>
+</svg>

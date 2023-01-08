@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236.25 221.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #6d28d9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11.25px;
+      }
+    </style>
+  </defs>
+  <g id="_Ñëîé_1" data-name="Ñëîé 1">
+    <g id="houseLocked">
+      <polygon class="cls-1" points="118.12 5.62 5.62 95.62 5.62 215.62 230.62 215.62 230.62 95.62 200.62 71.62 200.62 20.62 170.62 20.62 170.62 47.62 118.12 5.62"/>
+      <path class="cls-1" d="M170.62,155.62H106.61c-5.18,8.97-14.88,15-25.98,15-16.57,0-30-13.43-30-30s13.43-30,30-30c11.1,0,20.8,6.03,25.98,14.99,0,0,64.02,0,64.02,0l15,15-15,15Z"/>
+      <line class="cls-1" x1="125.62" y1="148.12" x2="125.62" y2="155.62"/>
+      <line class="cls-1" x1="148.12" y1="148.12" x2="148.12" y2="155.62"/>
+      <line class="cls-1" x1="80.55" y1="140.62" x2="80.7" y2="140.62"/>
+    </g>
+  </g>
+</svg>

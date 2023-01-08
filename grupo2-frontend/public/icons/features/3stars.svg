@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236.25 82.84">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #6d28d9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11.25px;
+      }
+    </style>
+  </defs>
+  <g id="_Ñëîé_1" data-name="Ñëîé 1">
+    <g id="_3stars" data-name="3stars">
+      <polygon class="cls-1" points="43.12 5.62 54.71 29.19 80.62 32.97 61.88 51.31 66.3 77.22 43.12 64.99 19.95 77.22 24.38 51.31 5.62 32.97 31.54 29.19 43.12 5.62"/>
+      <polygon class="cls-1" points="118.12 5.62 129.71 29.19 155.62 32.97 136.88 51.31 141.3 77.22 118.12 64.99 94.95 77.22 99.38 51.31 80.62 32.97 106.54 29.19 118.12 5.62"/>
+      <polygon class="cls-1" points="193.12 5.62 204.71 29.19 230.62 32.97 211.88 51.31 216.3 77.22 193.12 64.99 169.95 77.22 174.38 51.31 155.62 32.97 181.54 29.19 193.12 5.62"/>
+    </g>
+  </g>
+</svg>

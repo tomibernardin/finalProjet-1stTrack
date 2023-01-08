@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236.25 236.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #6d28d9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11.25px;
+      }
+    </style>
+  </defs>
+  <g id="_Ñëîé_1" data-name="Ñëîé 1">
+    <g id="buiidingAndHouse">
+      <polyline class="cls-1" points="125.62 230.62 125.62 155.62 65.62 95.62 5.62 155.62 5.62 230.62"/>
+      <line class="cls-1" x1="5.62" y1="230.62" x2="230.62" y2="230.62"/>
+      <line class="cls-1" x1="80.62" y1="110.62" x2="80.62" y2="5.62"/>
+      <line class="cls-1" x1="230.62" y1="230.62" x2="230.62" y2="5.62"/>
+      <line class="cls-1" x1="80.62" y1="5.62" x2="230.62" y2="5.62"/>
+      <rect class="cls-1" x="110.62" y="35.62" width="30" height="30"/>
+      <rect class="cls-1" x="170.62" y="35.62" width="30" height="30"/>
+      <rect class="cls-1" x="50.62" y="170.62" width="30" height="30"/>
+      <rect class="cls-1" x="110.62" y="95.62" width="30" height="30"/>
+      <rect class="cls-1" x="170.62" y="95.62" width="30" height="30"/>
+      <rect class="cls-1" x="170.62" y="155.62" width="30" height="30"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236.25 176.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #6d28d9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11.25px;
+      }
+    </style>
+  </defs>
+  <g id="_Ñëîé_1" data-name="Ñëîé 1">
+    <g id="mail">
+      <rect class="cls-1" x="5.62" y="5.62" width="225" height="165" rx="15" ry="15"/>
+      <polyline class="cls-1" points="230.62 20.62 118.12 95.62 5.62 20.62"/>
+    </g>
+  </g>
+</svg>

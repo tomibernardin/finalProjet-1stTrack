@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236.25 236.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #6d28d9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11.25px;
+      }
+    </style>
+  </defs>
+  <g id="_Ñëîé_1" data-name="Ñëîé 1">
+    <g id="sewingMachine">
+      <line class="cls-1" x1="230.62" y1="215.62" x2="230.62" y2="215.62"/>
+      <path class="cls-1" d="M215.62,65.62c8.29,0,15-6.71,15-15V20.62c0-8.29-6.71-15-15-15H20.62c-8.29,0-15,6.71-15,15V215.62c0,8.29,6.71,15,15,15H215.62c8.29,0,15-6.71,15-15s-6.71-15-15-15H95.62c-8.29,0-15-6.71-15-15V80.62c0-8.29,6.71-15,15-15h120Z"/>
+      <polyline class="cls-1" points="140.62 65.62 140.62 95.62 170.62 95.62 170.62 65.62"/>
+      <path class="cls-1" d="M197.34,178.12c18.29,0,33.29-7.5,33.29-22.5,0-8.29-6.71-15-15-15h-15"/>
+      <path class="cls-1" d="M185.62,200.62c8.29,0,15-26.84,15-60v-15H110.62v15c0,33.16,6.71,60,15,60"/>
+      <line class="cls-1" x1="111.1" y1="155.62" x2="200.15" y2="155.62"/>
+      <line class="cls-1" x1="35.62" y1="35.55" x2="35.62" y2="35.7"/>
+      <line class="cls-1" x1="65.62" y1="35.55" x2="65.62" y2="35.7"/>
+    </g>
+  </g>
+</svg>

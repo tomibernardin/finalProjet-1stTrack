@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 206.25 236.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #6d28d9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 11.25px;
+      }
+    </style>
+  </defs>
+  <g id="_Ñëîé_1" data-name="Ñëîé 1">
+    <g id="map">
+      <path class="cls-1" d="M43.12,133.13c0-16.57,13.43-30,30-30s30,13.43,30,30c0,19.17-16.67,32.46-30,45-13.33-12.54-30-25.83-30-45Z"/>
+      <polyline class="cls-1" points="5.62 50.62 5.62 230.62 140.62 230.62"/>
+      <line class="cls-1" x1="140.62" y1="50.62" x2="5.62" y2="50.62"/>
+      <polyline class="cls-1" points="65.62 50.62 65.62 5.62 200.62 5.62 200.62 200.62 140.62 200.62"/>
+      <polyline class="cls-1" points="65.62 5.62 140.62 50.62 140.62 230.62"/>
+      <line class="cls-1" x1="73.05" y1="133.12" x2="73.2" y2="133.12"/>
+    </g>
+  </g>
+</svg>
