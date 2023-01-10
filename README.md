@@ -2,7 +2,7 @@
 ## Proyecto final del primer año de la carrera de Certified Trech Developer en Digital House
 
 ### Final exposition - NomadApp
-https://www.youtube.com/watch?v=R22-HyfBnD8
+`video: https://www.youtube.com/watch?v=R22-HyfBnD8`
 
 ### FrontEnd
 
